@@ -27,6 +27,9 @@ export const colorTokens = {
         800: "#00353F",
         900: "#001519",
     },
+    red: {
+        50: "#FF0000",
+    },
 };
 
 export const themeSettings = (mode) => {
